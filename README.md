@@ -1,13 +1,11 @@
 # LMN
 Linguistics, Memory, &amp; Neuroscience
 
+A repository linking descriptions/observations in linguistics to mapped neuroscience discoveries of memory recovery.
 
-A repository linking descriptions/observations in linguistics to mapped neuroscience discoveries of memory.
+https://www.scientificamerican.com/article/elizabeth-bates-and-the-search-for-the-roots-of-human-language/ 4/25/2024
 
-
-https://www.scientificamerican.com/article/elizabeth-bates-and-the-search-for-the-roots-of-human-language/
-
-https://www.lostwomenofscience.org/episodes/elizabeth-bates-and-the-search-for-the-roots-of-human-language 
+https://www.lostwomenofscience.org/episodes/elizabeth-bates-and-the-search-for-the-roots-of-human-language (podcast)
 
 "Katie Hafner: All right, but here's the real question. Did she manage to
 change people's minds about nativism?
@@ -45,6 +43,11 @@ environment literally changes us by reshaping our brains.
 Mike Tomasello: She always had this dynamic, historical, evolutionary,
 developmental perspective, and a big-ideas-theoretical person. And that's what
 made her so interesting."
+
+Bates, E., & Roe, K. (2001).  "Language development in children with unilateral brain injury. [tables] In C.A. Nelson & M. Luciana (Eds.), Handbook of developmental cognitive neuroscience (pp. 281-307). Cambridge, MA: MIT Press."
+https://crl.ucsd.edu/bates/papers/pdf/bates-roe-inpress.pdf 
+
+https://crl.ucsd.edu/bates/papers/index.php
 
 "Unusual Mathematical Approaches to Nervous Dynamics" Authors: Arturo Tozzi" https://vixra.org/pdf/2201.0184v1.pdf
 
