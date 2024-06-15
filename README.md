@@ -97,3 +97,7 @@ of the topological features subtending visual images."
 (p.6 of Tozzi) 
 
 https://www.quantamagazine.org/a-new-spin-on-the-quantum-brain-20161102/ Quantum cognition possibilities via pyrophosphate: "Fisher has identified just one credible candidate for storing quantum information in the brain: phosphorus atoms, which are the only common biological element other than hydrogen with a spin of one-half, a low number that makes possible longer coherence times."
+
+Quantum microtubules
+--
+https://twitter.com/SterlingCooley/status/1757805260289282502 
