@@ -49,6 +49,10 @@ https://crl.ucsd.edu/bates/papers/pdf/bates-roe-inpress.pdf
 
 https://crl.ucsd.edu/bates/papers/index.php
 
+Cognition, memory and Time
+
+https://www.youtube.com/watch?v=vv_e99qbJ4U David Eagleman
+
 "Unusual Mathematical Approaches to Nervous Dynamics" Authors: Arturo Tozzi" https://vixra.org/pdf/2201.0184v1.pdf
 
 "Nevertheless, recently discovered microscopic entities screw up the paradigm of random neural networks. Tunneling
